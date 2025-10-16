@@ -14,3 +14,35 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ # 2048 Game
+
+A modern, fully-featured implementation of the popular 2048 puzzle game built with React and Vite. Play the classic sliding tile puzzle with smooth animations, touch controls, and customizable board sizes.
+
+![2048 Game Screenshot](https://img.shields.io/badge/React-18-blue) ![Vite](https://img.shields.io/badge/Vite-5-purple) ![License](https://img.shields.io/badge/License-MIT-green)
+
+## 🎮 Live Demo
+
+[Play the game here](#) _(Add your deployment link)_
+
+## ✨ Features
+
+- **Classic 2048 Gameplay** - Merge tiles to reach 2048 and beyond
+- **Multiple Board Sizes** - Play on 3x3, 4x4, 5x5, or 6x6 grids
+- **Smooth Animations** - Polished tile movements and merge effects
+- **Mobile Friendly** - Touch/swipe controls for mobile devices
+- **Score Tracking** - Current score and persistent best score
+- **Responsive Design** - Works seamlessly on all screen sizes
+- **Continue After Win** - Keep playing to achieve higher scores
+- **Clean UI** - Modern, intuitive interface with color-coded tiles
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (version 14 or higher)
+- npm or yarn package manager
+
+### Installation
+
+1. **Clone the repository**
+```bash
