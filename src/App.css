@@ -3,6 +3,7 @@
   justify-content: center;
   align-items: center;
   min-height: 100vh;
+  min-width: 100vw;
   background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
   font-family: 'Clear Sans', 'Helvetica Neue', Arial, sans-serif;
 }
